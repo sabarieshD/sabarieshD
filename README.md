@@ -12,9 +12,9 @@ Aspiring Software Engineer
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]() [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sabariesh-d-846a3922a/)
 
 ### Achievements:
-🥇 Won 1st Place in a paper presentation conducted at REC, Chennai.
-🥈 Won 2nd Place in a paper presentation conducted at SSNCE, Chennai.
-🥉 Won 3rd Place in a paper presentation conducted by IEEE EDS Society at SSIT, Chennai.
+- 🥇 Won 1st Place in a paper presentation conducted at REC, Chennai.
+- 🥈 Won 2nd Place in a paper presentation conducted at SSNCE, Chennai.
+- 🥉 Won 3rd Place in a paper presentation conducted by IEEE EDS Society at SSIT, Chennai.
   
 ### Experience:
 - I worked as a front-end web developer at an NGO in collaboration with Code Kaaro Yaaro, an Ed-tech platform, where I redesigned the entire landing page and added few functionalities to the payment section. This initiative resulted in a 30% increase in their quarterly revenue.
