@@ -12,12 +12,12 @@ Aspiring Software Engineer
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]() [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sabariesh-d-846a3922a/)
 
 ### Achievements:
-- 🥇 won 1 Place in paper presentation conducted at REC,Chennai
-- 🥈 won 2 place in paper presentation conducted at SSNCE,Chennai
-- 🥉 won 3 place in paper presentation conducted by IEEE EDS society at SSIT,Chennai
+🥇 Won 1st Place in a paper presentation conducted at REC, Chennai.
+🥈 Won 2nd Place in a paper presentation conducted at SSNCE, Chennai.
+🥉 Won 3rd Place in a paper presentation conducted by IEEE EDS Society at SSIT, Chennai.
   
 ### Experience:
-- Worked as an front-end web developer at NGO in collaboration with code kaaro yaaro which is ed-tech platform where i redesign the whole landing page and added few functionalities in payment section which led to 30% increase in their quaterly revenue.
+- I worked as a front-end web developer at an NGO in collaboration with Code Kaaro Yaaro, an Ed-tech platform, where I redesigned the entire landing page and added few functionalities to the payment section. This initiative resulted in a 30% increase in their quarterly revenue.
   
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
